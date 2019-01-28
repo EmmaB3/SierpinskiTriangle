@@ -8,7 +8,7 @@ public void draw()
 	background(252, 249, 224);
 	fill(0);
 	noStroke();
-	sierpinski(0, 400, 500);
+	sierpinski(0, 500, 500);
 }
 public void keyPressed()
 {
